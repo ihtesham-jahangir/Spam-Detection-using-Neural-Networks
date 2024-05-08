@@ -15,7 +15,7 @@ The model is trained on a dataset of text messages sourced from Spam.csv. The da
 Clone the repository:
 **bash**
 
-git clone https://github.com/your_username/spam-detection.git
+git clone https://github.com/ihtesham-jahangir/Spam-Detection-using-Neural-Networks
 cd spam-detection
 **Install the required dependencies:**
 
